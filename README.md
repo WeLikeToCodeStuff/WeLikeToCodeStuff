@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, We're WLTCS</h1>
 <h3 align="center">We're a team of software developers to bring you useless, but sometimes useful software.</h3>
 
-- Were currently working on many projects
+- We are currently working on many projects:
+- Many are private but here are some names:
+- Scaling-Tribble (Minecraft Server Core for AlphaHQ)
+- literate-fortnight (Minecraft Hub Core)
+
 
 <h3 align="left">Connect with us: team@wltcs.us</h3>
 <p align="left">
